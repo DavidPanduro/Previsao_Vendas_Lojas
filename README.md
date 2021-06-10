@@ -1,3 +1,3 @@
 # Previsão de Vendas nas Lojas Rossmann
-Previsão de vendas por lojas Rossemann
-Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
+Previsão de vendas por lojas Rossemann <br>
+Atualmente, os gerentes de lojas da Rossmann são encarregados de prever suas vendas diárias com até seis semanas de antecedência. As vendas nas lojas são influenciadas por muitos fatores, incluindo promoções, concorrência, feriados escolares e estaduais, sazonalidade e localidade. Com milhares de gestores individuais prevendo vendas com base em suas circunstâncias únicas, a precisão dos resultados pode ser bastante variada.
